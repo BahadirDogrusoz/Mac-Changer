@@ -17,3 +17,7 @@ Example: python3 main.py -i eth0 -m 00:11:22:33:44:55
 # 3 - Example Image For Usage
 
 ![alt text](https://raw.githubusercontent.com/BahadirDogrusoz/Mac-Changer/main/Mac%20Changer.png)
+
+# 4 - DISCLAIMER
+## [!]Do not use it in illegal activities.
+## [!]The user is responsable for his/her own action.
