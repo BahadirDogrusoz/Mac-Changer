@@ -5,7 +5,7 @@ Bu programı Kali Linux ile kullanabilirsiniz. Öncelikle Kali Linux'u kurmanız
 # 2 - Programı Başlatın
 Öncelikle terminalden programın dizinine gitmelisiniz. İkincisi, bunu terminalde yazmanız gerekiyor.
 ```python
-python main.py -i your card interface -m wanting mac address
+python main.py -i kart arayüzü -m yazılmak istenen mac adresi
 
 Örnek: python main.py -i eth0 -m 00:11:22:33:44:55
 ```
