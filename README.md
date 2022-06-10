@@ -1,23 +1,23 @@
-# 1 - Uyarı
+# 1 - Warning
 
-Bu programı Kali Linux ile kullanabilirsiniz. Öncelikle Kali Linux'u kurmanız gerekiyor.
+You can use this program with Kali Linux. First you need to install Kali Linux.
 
-# 2 - Programı Başlatın
-Öncelikle terminalden programın dizinine gitmelisiniz. İkincisi, bunu terminalde yazmanız gerekiyor.
+# 2 - Start the Program
+First you have to go to the directory of the program from the terminal. Second, you have to type this in terminal.
 ```python
-python main.py -i kart arayüzü -m yazılmak istenen mac adresi
+python main.py -i card interface -m mac address to be written
 
-Örnek: python main.py -i eth0 -m 00:11:22:33:44:55
+Sample: python main.py -i eth0 -m 00:11:22:33:44:55
 ```
-Sonunda bu programı python3 ile kullanabilirsiniz.
+Finally you can use this program with python3.
 ```python
-Örnek: python3 main.py -i eth0 -m 00:11:22:33:44:55
+Sample: python3 main.py -i eth0 -m 00:11:22:33:44:55
 ```
 
-# 3 - Kullanım İçin Örnek Resim
+# 3 - Example Image for Use
 
 ![alt text](https://raw.githubusercontent.com/BahadirDogrusoz/Mac-Changer/main/Mac%20Changer.png)
 
-# 4 - SORUMLULUK REDDİ
-## [!]Yasa dışı faaliyetlerde kullanmayınız.
-## [!]Kullanıcı kendi eyleminden sorumludur.
+# 4 - DISCLAIMER
+## [!]Do not use in illegal activities.
+## [!]The user is responsible for his own action.
